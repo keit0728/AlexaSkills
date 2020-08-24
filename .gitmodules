@@ -1,3 +1,6 @@
 [submodule "Yamabikodama"]
 	path = Yamabikodama
 	url = https://github.com/keit0728/Yamabikodama.git
+[submodule "SurpriseWords"]
+	path = SurpriseWords
+	url = https://github.com/keit0728/SurpriseWords.git
